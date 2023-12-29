@@ -77,8 +77,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![Alt text](<Screenshot (1).png>)
-![Alt text](<Screenshot (2).png>)
+![Screenshot (1)](https://github.com/SHARUKESHR/simplewebserver/assets/144870484/01ba3a73-ee70-457f-9e88-bec2ed8c0a09)
+![Screenshot (2)](https://github.com/SHARUKESHR/simplewebserver/assets/144870484/fa9da15a-9da5-439d-89d9-dea3c451488c)
 
 
 ## RESULT:
